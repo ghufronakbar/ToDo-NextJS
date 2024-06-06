@@ -1,3 +1,4 @@
+import { SidebarMenu } from "@/components/SidebarOrganization";
 import { ChakraProvider } from "@chakra-ui/react"
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query"
 
